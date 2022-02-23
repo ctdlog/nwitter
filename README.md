@@ -34,7 +34,7 @@ If you want to run this code on your computer, you need npm.
 Run this command: $ npm i
 
 ### 3. Get env
-You need env file containing keys to access Google Firebase services. Contect me: qpflapffhs76@naver.com
+You need env file containing keys to access Google Firebase services. Contact me: qpflapffhs76@naver.com
 
 ## License
 MIT
